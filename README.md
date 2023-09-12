@@ -1,2 +1,1 @@
-# Hello-World-
-understanding what a repository is 
+# jackies.github.io
